@@ -1,2 +1,3 @@
 password.auto.tfvars
+.terraform*
 terraform.tfstate*
