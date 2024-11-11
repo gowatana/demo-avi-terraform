@@ -1,0 +1,2 @@
+password.auto.tfvars
+terraform.tfstate*
